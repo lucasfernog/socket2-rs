@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["socket2"] = [{"text":"impl UnwindSafe for SockAddr","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Socket","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Domain","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Type","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Protocol","synthetic":true,"types":[]},{"text":"impl UnwindSafe for RecvFlags","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

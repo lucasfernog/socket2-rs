@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["socket2"] = [{"text":"impl Unpin for SockAddr","synthetic":true,"types":[]},{"text":"impl Unpin for Socket","synthetic":true,"types":[]},{"text":"impl Unpin for Domain","synthetic":true,"types":[]},{"text":"impl Unpin for Type","synthetic":true,"types":[]},{"text":"impl Unpin for Protocol","synthetic":true,"types":[]},{"text":"impl Unpin for RecvFlags","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

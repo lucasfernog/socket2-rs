@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["socket2"] = [{"text":"impl Send for SockAddr","synthetic":true,"types":[]},{"text":"impl Send for Socket","synthetic":true,"types":[]},{"text":"impl Send for Domain","synthetic":true,"types":[]},{"text":"impl Send for Type","synthetic":true,"types":[]},{"text":"impl Send for Protocol","synthetic":true,"types":[]},{"text":"impl Send for RecvFlags","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
